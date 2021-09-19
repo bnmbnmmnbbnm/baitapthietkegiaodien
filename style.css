@@ -1,0 +1,191 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mautrang{
+    color: white;
+}
+.clearfix{
+    clear: both;
+    float: none;
+}
+.space{
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+/* sec 1 */
+.logo{
+    line-height: 60px;
+}
+a{
+    color: #ff6b81;
+    text-decoration: none;
+}
+a:hover{
+    color: #9b0f1b;
+}
+.tags{
+    line-height: 60px;
+text-align: right;
+
+}
+.tags ul{
+    list-style-type: none;
+    color: red;
+}
+.tags ul li{
+    display: inline;
+    padding: 2%;
+    font-weight: bold;
+
+}
+/* sec 2 */
+
+.search{
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 7% 0;
+}
+.search input[type="search"]{
+    width: 50%;
+    padding: 1%;
+    font-size:  1rem;
+    border: none;
+    border-radius: 5px;
+
+}
+#cangiua{
+    text-align: center;
+}
+
+#thanhtimkiem{
+    margin: auto;
+}
+.bttk{
+    padding: 1%;
+    border: none;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: none;
+    font-size: 1rem;
+    border-radius: 5px;
+    background-color: #ff6b81;
+    color: white;
+
+}
+.bttk:hover{
+    color: white;
+    background-color: #9b0f1b;
+}
+/* sec3 */
+.exfood{
+
+    padding: 4% 0;
+}
+.textcenter{
+    text-align: center;
+
+}
+.codinh{
+    width: 28%;
+    float: left;
+    margin: 2%;
+}
+.noi{
+    position: relative;
+}
+.fixsize{
+    width: 100%;
+
+}
+.bovien{
+    border-radius: 15px;
+}
+.chunoi{
+    position: absolute;
+    bottom: 50px;
+    left: 40%;
+}
+/* sec 4 */
+.foodmenu{
+    background-color: rgb(199, 199, 199);
+    padding: 4%;
+}
+.khoifm{
+    width: 43%;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+    background-color: white;
+    border-radius: 15px;
+}
+.anhfm{
+    width: 20%;
+    float: left;
+}
+.ttinfm{
+    width: 70%;
+    float: left;
+    margin-left: 8%;
+}
+.giafm{
+    font-size: 1.2rem;
+    margin: 2% 0;
+}
+.motafm{
+    font-size: 1rem;
+    color: #747d8c;
+}
+/* sec5,6 */
+.social ul{
+    list-style-type: none;
+}
+.social ul li{
+    display: inline;
+    padding: 1%;
+}
+/* sec 7 */
+.khoiod{
+    width: 50%;
+    margin: 0 auto;
+}
+.foodslc{
+    width: 43%;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+    border-radius: 15px;    
+}
+.search1{
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 7% 0;
+}
+fontod{
+    margin-left: 2%;
+    font-weight: bold;
+    
+}
+.fixvienod{
+    border-radius: 15px;
+    border-color: white;
+}
+.fixod{
+    width: 96%;
+    border-radius: 5px;
+    margin-bottom: 2%;
+    margin-left: 2%;
+
+}
+#mauod{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
